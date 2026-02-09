@@ -128,11 +128,11 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "t085nbeUNej8dDPfH5EDRwmKM8jmS1SY");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "panel-gb.pi-fa.eu.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiN2JiMDFjYWI3YWMwYTVkYmMzNDE3ZDVmYWI4NDIwMjEiLCJ0IjoiMDIxYWM5OTUtZGQyYy00NDAxLTljY2ItY2FhNWRmYjljNzZjIiwicyI6IlpqZzNaRGxtTXpNdE16TmxZeTAwTXpCakxUbGtZbUV0WVRrd05ESmhNamRoTW1FMSJ9");
-        envVars.put("HY2_PORT", "30532");
+        envVars.put("ARGO_DOMAIN", "panel-de.pi-fa.eu.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiN2JiMDFjYWI3YWMwYTVkYmMzNDE3ZDVmYWI4NDIwMjEiLCJ0IjoiZWVhNmRhNDAtMjk1YS00OTc5LTg2NjktYTQ0MTk4MTNhYjM4IiwicyI6Ik9UVmpNek5tWWpFdE1UUTBZUzAwWkRBMExUZ3hNRGt0WlRjNFlUWXhNVEU0TW1ZMyJ9");
+        envVars.put("HY2_PORT", "4067");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "30532");
+        envVars.put("REALITY_PORT", "4067");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "906374877");
         envVars.put("BOT_TOKEN", "1442484608:AAEJ0d3uDWsEZ0sO4bksI4ms3xlf5QuCE5c");
